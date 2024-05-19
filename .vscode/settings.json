@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "cms website api local",
+            "database": "C:\\Strapi Backends\\coach-appointment-admin\\.tmp\\data.db"
+        }
+    ]
+}
